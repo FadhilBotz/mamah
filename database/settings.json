@@ -1,8 +1,8 @@
 {
-	"prefix": "&",
+	"prefix": ".",
 	"gamewaktu": 60,
-	"limitCount": 30,
-	"ownerNumber": "6281804680327",
+	"limitCount": 3000,
+	"ownerNumber": "6288271707571",
 	"gcount": {
 		"prem": 40,
 		"user": 20
